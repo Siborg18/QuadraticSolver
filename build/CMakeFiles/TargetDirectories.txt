@@ -1,0 +1,3 @@
+/home/simon/VSCodeProjects/QuadraticSolver/build/CMakeFiles/main.dir
+/home/simon/VSCodeProjects/QuadraticSolver/build/CMakeFiles/edit_cache.dir
+/home/simon/VSCodeProjects/QuadraticSolver/build/CMakeFiles/rebuild_cache.dir

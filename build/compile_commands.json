@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/simon/VSCodeProjects/QuadraticSolver/build",
+  "command": "/usr/bin/clang++ -I/home/simon/VSCodeProjects/QuadraticSolver/src -I/home/simon/VSCodeProjects/QuadraticSolver/includes -g -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/simon/VSCodeProjects/QuadraticSolver/main.cpp",
+  "file": "/home/simon/VSCodeProjects/QuadraticSolver/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
